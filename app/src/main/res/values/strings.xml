@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 7</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="poetry">雲對雨，雪對風，晚照對晴空。來鴻對去燕，宿鳥對鳴蟲。</string>
+    <string name="docker">docker入門</string>
+    <string name="back">回到前頁</string>
+</resources>
